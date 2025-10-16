@@ -1,0 +1,13 @@
+<div class="slideshow-container">
+  <div *ngFor="let img of images; let i = index" [class.active]="i === currentSlide">
+    <img [src]="img.url" alt="Sivilim Project">
+    <div class="caption">
+      <h2 class="typewriter">{{img.caption}}</h2>
+    </div>
+  </div>
+</div>
+
+<section class="intro">
+  <h2>Welcome to Sivilim</h2>
+  <p>Your trusted partner for civil construction, design, and renovation projects.</p>
+</section>

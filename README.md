@@ -89,11 +89,3 @@ ng test
 ng lint
 ```
 
-
-## 📄 License
-
-MIT License
-
-## 📧 Contact
-
-For any questions about the project, please contact us.

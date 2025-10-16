@@ -1,8 +1,8 @@
-# Sivilima_web_system
+# Sivilima Web System
 
 **Client Project - Static Website for Sivilima Services**
 
-මේක sivilim company එකක් වෙනුවෙන් හැදූ static website එකක්. මේකෙන් customers ලාට company එකේ projects, reviews, සහ services බලන්න පුළුවන්.
+මේක sivilima company එකක් වෙනුවෙන් හැදූ static website එකක්. මේකෙන් customers ලාට company එකේ projects, reviews, සහ services බලන්න පුළුවන්.
 
 ##  Features
 
@@ -39,7 +39,7 @@ ng generate component components/contacts
 ### Run Development Server
 ng serve
 
-Application එක `http://localhost:4200/` මත run වෙනවා.
+Application එක http://localhost:4200/ මත run වෙනවා.
 
 ##  Project Structure
 
@@ -86,7 +86,6 @@ sivilima-web-system/
 │   └── index.html
 └── package.json
 
-
 ##  Components
 
 | Component | Description |
@@ -98,7 +97,7 @@ sivilima-web-system/
 | **Reviews** | Customer reviews සහ testimonials |
 | **Contacts** | Contact details සහ inquiry form |
 
-## 💻 Additional Commands
+##  Additional Commands
 
 ### Production Build
 ng build

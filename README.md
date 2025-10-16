@@ -4,7 +4,7 @@
 
 මේක sivilima company එකක් වෙනුවෙන් හැදූ static website එකක්. මේකෙන් customers ලාට company එකේ projects, reviews, සහ services බලන්න පුළුවන්.
 
-##  Features
+## 🎯 Features
 
 - **Projects Gallery** - සිවිලිම් projects view කරන්න පුළුවන්
 - **Customer Reviews** - customer reviews පෙන්වනවා
@@ -12,12 +12,12 @@
 - **Contact Information** - company contact details display කරනවා
 - **Responsive Design** - mobile සහ desktop යන දෙකටම ගැලපෙන design එකක්
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 - **Frontend Framework**: Angular.js
 - **Styling**: Bootstrap
 
-##  Complete Setup Guide
+## 🚀 Complete Setup Guide
 
 ### Install Angular CLI
 npm install -g @angular/cli
@@ -41,7 +41,7 @@ ng serve
 
 Application එක http://localhost:4200/ මත run වෙනවා.
 
-##  Project Structure
+## 📁 Project Structure
 
 sivilima-web-system/
 ├── src/
@@ -77,16 +77,16 @@ sivilima-web-system/
 │   │   │       ├── contacts.component.html
 │   │   │       ├── contacts.component.css
 │   │   │       └── contacts.component.spec.ts
-│   │   ├── app.ts
-│   │   ├── app.html
-│   │   ├── app.css
+│   │   ├── app.component.ts
+│   │   ├── app.component.html
+│   │   ├── app.component.css
 │   │   └── app.module.ts
 │   ├── assets/
 │   ├── styles.css
 │   └── index.html
 └── package.json
 
-##  Components
+## 🎨 Components
 
 | Component | Description |
 |-----------|-------------|
@@ -97,7 +97,7 @@ sivilima-web-system/
 | **Reviews** | Customer reviews සහ testimonials |
 | **Contacts** | Contact details සහ inquiry form |
 
-##  Additional Commands
+## 💻 Additional Commands
 
 ### Production Build
 ng build
@@ -108,3 +108,14 @@ ng test
 ### Code Linting
 ng lint
 
+## 📱 Responsive Design
+
+Bootstrap භාවිතා කරලා mobile-first responsive design එකක් implement කරලා තියෙනවා.
+
+## 📄 License
+
+MIT License
+
+## 📧 Contact
+
+Project ගැන ප්‍රශ්න තියෙනවා නම් contact කරන්න.
